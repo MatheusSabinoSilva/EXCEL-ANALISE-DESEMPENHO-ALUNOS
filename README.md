@@ -23,4 +23,8 @@ Este projeto foi desenvolvido no **Excel Drive** com o objetivo de analisar o de
 - Validação de dados
 - Gráficos
 
+- ### 📸 Print da Planilha
+
+![Print da planilha](https://github.com/MatheusSabinoSilva/EXCEL-ANALISE-DESEMPENHO-ALUNOS/blob/main/Excel_Drive.jpeg?raw=true)
+
 Desenvolvido por [Matheus Rickson Sabino da Silva]
